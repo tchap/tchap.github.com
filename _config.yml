@@ -4,7 +4,7 @@
 
 url: http://tchap.github.com
 title: "@ondrejkupka"
-subtitle: "Blogging area 51."
+subtitle: "What comes up my mind ends up down there."
 author: Ondrej Kupka
 simple_search: http://google.com/search
 description: What comes up my mind end up down there.
@@ -65,7 +65,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: ondrejkupka
-twitter_tweet_count: 4
+twitter_tweet_count: 5
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
